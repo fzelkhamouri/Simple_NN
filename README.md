@@ -1,1 +1,1 @@
-# Simple_NN
+# Simple_NN_Classification
